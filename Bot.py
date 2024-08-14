@@ -37,11 +37,11 @@ async def start(event):
     await event.client.send_file(
         event.chat_id,
         file="https://te.legra.ph/file/c51f9d5400b4d1e2dce09.jpg",
-        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/tum_jaha_ham_wahi)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [HARRY FEELS](https://t.me/harrysfeel)┓\n┣★ ʀᴇᴘᴏ › : [HARRY ʀᴇᴘᴏ](https://t.me/harrysfeel)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/tum_jaha_ham_wahi) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/tum_jaha_ham_wahi)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [𝗙𝗘𝗘𝗟 𝗟𝗢𝗩𝗘 ❤️‍🩹</𝟯 ♡](https://t.me/harrysfeel)┓\n┣★ ʀᴇᴘᴏ › : [ʀᴇᴘᴏ](https://t.me/harrysfeel)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/tum_jaha_ham_wahi) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/+F1dRjVAsinIxNThl")],
+            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/HARRY_MACHINE_BOT")],
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/+F1dRjVAsinIxNThl"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/+F1dRjVAsinIxNThl")],
             [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/+mO8Gx5nOJms5Y2Nl"), Button.url("❤️‍🔥 ɢʀᴏᴜᴘ ❤️‍🔥", "https://t.me/+mO8Gx5nOJms5Y2Nl")]
         ]
     )
