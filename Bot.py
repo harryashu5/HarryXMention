@@ -58,8 +58,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/+F1dRjVAsinIxNThl"),
-                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/+mO8Gx5nOJms5Y2Nl"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/+WzTIBX_aIV1kZTU1"),
+                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/magician_music_bot?startgroup=true"),
             ]
         ),
     )
