@@ -40,9 +40,9 @@ async def start(event):
         caption="━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴍᴀɢɪᴄɪᴀɴ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/tum_jaha_ham_wahi)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ʙᴏᴛ ʕ•ᴥ•ʔ](https://t.me/harry_bots)┓\n┣★ ʀᴇᴘᴏ › : [ʀᴇᴘᴏ](https://t.me/harry_bots)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/tum_jaha_ham_wahi) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/MAGICIAN_TAG_BOT")],
+            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/MAGICIAN_TAG_BOT?startgroup=true")],
             [Button.url("❤️‍🔥 ᴍᴜsɪᴄ ʙᴏᴛ 💫", "https://t.me/magician_music_bot"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/+WzTIBX_aIV1kZTU1")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/+mO8Gx5nOJms5Y2Nl"), Button.url("❤️‍🔥 ɢʀᴏᴜᴘ ❤️‍🔥", "https://t.me/+F1dRjVAsinIxNThl")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/magician_music_bot?startgroup=true"), Button.url("❤️‍🔥 ɢʀᴏᴜᴘ ❤️‍🔥", "https://t.me/JANAVI_MUSIC_BOT?startgroup=true")]
         ]
     )
 
@@ -76,8 +76,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/+F1dRjVAsinIxNThl"),
-                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/+mO8Gx5nOJms5Y2Nl"),
+                Button.url("❤️‍🔥 ꜱᴜᴘᴘᴏʀᴛ 💫", "https://t.me/+WzTIBX_aIV1kZTU1"),
+                Button.url("❤️‍🔥 ɢʀᴏᴜᴘ💫", "https://t.me/magician_music_bot?startgroup=true"),
             ]
         ),
     )
